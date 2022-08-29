@@ -1,0 +1,13 @@
+.todo-page {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
+
+.todo-page .todo-toolbar {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}

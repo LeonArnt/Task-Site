@@ -1,0 +1,33 @@
+button {
+  padding: 8px 16px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.primary-btn {
+  background-color: #1976d2;
+  color: #fff;
+}
+
+.secondary-btn {
+  background-color: #5cbe93;
+  color: #fff;
+}
+
+input,
+textarea {
+  min-width: 300px;
+  width: max-content;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+}
+
+/* forms */
+form label {
+  padding-bottom: 5px;
+}
+.form-line {
+  margin: 10px 0;
+}

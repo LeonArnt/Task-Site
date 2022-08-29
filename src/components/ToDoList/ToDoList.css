@@ -1,0 +1,14 @@
+.todo-list {
+  width: 100%;
+  padding: 40px 0;
+}
+
+.todo-list .empty-list {
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+}
+
+.todo-list .todo-task:last-child {
+  border-bottom: 0;
+}

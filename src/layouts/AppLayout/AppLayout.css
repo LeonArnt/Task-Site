@@ -1,0 +1,19 @@
+.app-layout {
+  width: 100vw;
+  height: 100vh;
+}
+
+.app-top-bar {
+  width: 100vw;
+  height: 60px;
+  border-bottom: 1px solid #ccc;
+  font-size: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-page-container {
+  width: 1024px;
+  margin: 0 auto;
+}
